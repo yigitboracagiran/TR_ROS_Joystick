@@ -37,15 +37,3 @@ değişen değerlerden Joystick üzerinde bulunan tüm tuş ve joysticklerin yer
 button ve axes dizilerinde bulabilir ve bir kod yazarak robotu Joystick ile kontrol edebilirsiniz.
 
 Ör: Yeşil tuşa basıldığında button dizisinin 0. indeksindeki değer 1 olmaktadır.
-
-D) Hız Kontrolü
-
-1- Ekteki kodu çalıştırmadan önce:
-
-a) Simülasyonda Turtlebot3 launch edilmelidir.
-
-Ör: "roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch"
-
-b) /joy topic’ini yayınlayan ekteki launch dosyası yukarıda anlatıldığı gibi çalıştırılmalıdır.
-
-2- Son olarak terminalde kodun olduğu dizine gidilip "python joystick.py" komutu ile kod çalıştırılmalıdır. Kodun çalıştırılmasıyla Joystick ile simülasyonda Turtlebot3'ün hızı kontrol edilebiyor olunmalıdır.
