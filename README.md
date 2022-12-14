@@ -14,7 +14,7 @@ B) Joy Paketinin Kurulumu
 
 Not: ROS Sürümü kısmına sürümü küçük harflerle yazınız.
 
-Ör: ros-melodic-joy
+Ör: sudo apt-get install ros-melodic-joy
 
 C) Joy Düğümünün Çalıştırılması
 
