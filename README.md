@@ -4,7 +4,9 @@ A) Gereksinimler:
 
 2- Turtlebot3 Gazebo’da çalıştırılabiliyor olmalıdır.
 
-3- ROS ile uyumlu Joystick’e sahip olunmalıdır. Ör: Logitech F710 Kablosuz Gamepad kullanılmıştır.
+3- ROS ile uyumlu Joystick’e sahip olunmalıdır. 
+
+Ör: Logitech F710 Kablosuz Gamepad kullanılmıştır.
 
 B) Joy Paketinin Kurulumu
 
