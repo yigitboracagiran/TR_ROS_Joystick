@@ -39,3 +39,9 @@ değişen değerlerden Joystick üzerinde bulunan tüm tuş ve joysticklerin yer
 button ve axes dizilerinde bulabilir ve bir kod yazarak robotu Joystick ile kontrol edebilirsiniz.
 
 Ör: Yeşil tuşa basıldığında button dizisinin 0. indeksindeki değer 1 olmaktadır.
+
+D) Kodun Çalışıtırlması
+
+1- Kodun olduğu dizine gidilip python3 Joystick.py komutu ile kod çalışıtırılır.
+
+2- Bu kod ile joy topicinden gelen veriler hız verisine dönüştürülüp /cmd_vel isimli bir topicte yayınlanır.
